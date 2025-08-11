@@ -12,7 +12,7 @@ A fast, puzzle-y binary path game built in Unity (5x5 grid). Drag across adjacen
 
 ## Play the Build
 You can download the full game build along with the complete Unity project from Google Drive:  
-- **[Download from Google Drive](https://drive.google.com/your-link-here)**
+- **[Download from Google Drive]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1IoLRbsZUk9llXo8aqq-UBMmcYgLeYHVC/view?usp=drive_link))**
 
 The ZIP contains:
 - Windows executable (`.exe`) for running the game without Unity
